@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/mosheraD/quraan-academy.git/static/css/main.a645ba7d.chunk.css",
-    "main.js": "/mosheraD/quraan-academy.git/static/js/main.4a922695.chunk.js",
-    "main.js.map": "/mosheraD/quraan-academy.git/static/js/main.4a922695.chunk.js.map",
+    "main.js": "/mosheraD/quraan-academy.git/static/js/main.1b8c4329.chunk.js",
+    "main.js.map": "/mosheraD/quraan-academy.git/static/js/main.1b8c4329.chunk.js.map",
     "runtime-main.js": "/mosheraD/quraan-academy.git/static/js/runtime-main.9ae29d41.js",
     "runtime-main.js.map": "/mosheraD/quraan-academy.git/static/js/runtime-main.9ae29d41.js.map",
     "static/css/2.2a86faee.chunk.css": "/mosheraD/quraan-academy.git/static/css/2.2a86faee.chunk.css",
-    "static/js/2.7f161d7c.chunk.js": "/mosheraD/quraan-academy.git/static/js/2.7f161d7c.chunk.js",
-    "static/js/2.7f161d7c.chunk.js.map": "/mosheraD/quraan-academy.git/static/js/2.7f161d7c.chunk.js.map",
+    "static/js/2.cee3f1c6.chunk.js": "/mosheraD/quraan-academy.git/static/js/2.cee3f1c6.chunk.js",
+    "static/js/2.cee3f1c6.chunk.js.map": "/mosheraD/quraan-academy.git/static/js/2.cee3f1c6.chunk.js.map",
     "index.html": "/mosheraD/quraan-academy.git/index.html",
-    "precache-manifest.6d706239392ef03f0b7db089392261d1.js": "/mosheraD/quraan-academy.git/precache-manifest.6d706239392ef03f0b7db089392261d1.js",
+    "precache-manifest.cc5fbdfbc3c0e14ddca75f4f48e3cd91.js": "/mosheraD/quraan-academy.git/precache-manifest.cc5fbdfbc3c0e14ddca75f4f48e3cd91.js",
     "service-worker.js": "/mosheraD/quraan-academy.git/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/mosheraD/quraan-academy.git/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.a645ba7d.chunk.css.map": "/mosheraD/quraan-academy.git/static/css/main.a645ba7d.chunk.css.map",
-    "static/js/2.7f161d7c.chunk.js.LICENSE.txt": "/mosheraD/quraan-academy.git/static/js/2.7f161d7c.chunk.js.LICENSE.txt",
+    "static/js/2.cee3f1c6.chunk.js.LICENSE.txt": "/mosheraD/quraan-academy.git/static/js/2.cee3f1c6.chunk.js.LICENSE.txt",
     "static/media/Icon awesome-facebook-f.svg": "/mosheraD/quraan-academy.git/static/media/Icon awesome-facebook-f.2fd580f5.svg",
     "static/media/Icon awesome-linkedin-in.svg": "/mosheraD/quraan-academy.git/static/media/Icon awesome-linkedin-in.7e0e9491.svg",
     "static/media/Icon awesome-twitter.svg": "/mosheraD/quraan-academy.git/static/media/Icon awesome-twitter.4be6c3e5.svg",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.9ae29d41.js",
     "static/css/2.2a86faee.chunk.css",
-    "static/js/2.7f161d7c.chunk.js",
+    "static/js/2.cee3f1c6.chunk.js",
     "static/css/main.a645ba7d.chunk.css",
-    "static/js/main.4a922695.chunk.js"
+    "static/js/main.1b8c4329.chunk.js"
   ]
 }
