@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ef5dfd689feba3cc233219d88cce6859",
+    "revision": "e6df8cc5e6bc2a8c824e689f0b97b692",
     "url": "/quraan-academy/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quraan-academy/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "55b8a58167f6137338bb",
+    "revision": "940e587d62cb81a5fe31",
     "url": "/quraan-academy/static/css/main.79df3c52.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quraan-academy/static/js/2.cee3f1c6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "55b8a58167f6137338bb",
-    "url": "/quraan-academy/static/js/main.7678ad88.chunk.js"
+    "revision": "940e587d62cb81a5fe31",
+    "url": "/quraan-academy/static/js/main.1867998b.chunk.js"
   },
   {
     "revision": "49954c5a0664669d6c4b",
