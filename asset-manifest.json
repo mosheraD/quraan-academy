@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/quraan-academy/static/css/main.79df3c52.chunk.css",
-    "main.js": "/quraan-academy/static/js/main.234c1498.chunk.js",
-    "main.js.map": "/quraan-academy/static/js/main.234c1498.chunk.js.map",
+    "main.js": "/quraan-academy/static/js/main.da85591e.chunk.js",
+    "main.js.map": "/quraan-academy/static/js/main.da85591e.chunk.js.map",
     "runtime-main.js": "/quraan-academy/static/js/runtime-main.5ab54ee4.js",
     "runtime-main.js.map": "/quraan-academy/static/js/runtime-main.5ab54ee4.js.map",
     "static/css/2.2a86faee.chunk.css": "/quraan-academy/static/css/2.2a86faee.chunk.css",
-    "static/js/2.cee3f1c6.chunk.js": "/quraan-academy/static/js/2.cee3f1c6.chunk.js",
-    "static/js/2.cee3f1c6.chunk.js.map": "/quraan-academy/static/js/2.cee3f1c6.chunk.js.map",
+    "static/js/2.fea8dd8c.chunk.js": "/quraan-academy/static/js/2.fea8dd8c.chunk.js",
+    "static/js/2.fea8dd8c.chunk.js.map": "/quraan-academy/static/js/2.fea8dd8c.chunk.js.map",
     "index.html": "/quraan-academy/index.html",
-    "precache-manifest.a8b26fe2887563d6bff517e6fcb03179.js": "/quraan-academy/precache-manifest.a8b26fe2887563d6bff517e6fcb03179.js",
+    "precache-manifest.1cf80e623240a845c5627da21e6d905f.js": "/quraan-academy/precache-manifest.1cf80e623240a845c5627da21e6d905f.js",
     "service-worker.js": "/quraan-academy/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/quraan-academy/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.79df3c52.chunk.css.map": "/quraan-academy/static/css/main.79df3c52.chunk.css.map",
-    "static/js/2.cee3f1c6.chunk.js.LICENSE.txt": "/quraan-academy/static/js/2.cee3f1c6.chunk.js.LICENSE.txt",
+    "static/js/2.fea8dd8c.chunk.js.LICENSE.txt": "/quraan-academy/static/js/2.fea8dd8c.chunk.js.LICENSE.txt",
     "static/media/Icon awesome-facebook-f.svg": "/quraan-academy/static/media/Icon awesome-facebook-f.2fd580f5.svg",
     "static/media/Icon awesome-linkedin-in.svg": "/quraan-academy/static/media/Icon awesome-linkedin-in.7e0e9491.svg",
     "static/media/Icon awesome-twitter.svg": "/quraan-academy/static/media/Icon awesome-twitter.4be6c3e5.svg",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.5ab54ee4.js",
     "static/css/2.2a86faee.chunk.css",
-    "static/js/2.cee3f1c6.chunk.js",
+    "static/js/2.fea8dd8c.chunk.js",
     "static/css/main.79df3c52.chunk.css",
-    "static/js/main.234c1498.chunk.js"
+    "static/js/main.da85591e.chunk.js"
   ]
 }
