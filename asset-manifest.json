@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/quraan-academy/static/css/main.79df3c52.chunk.css",
-    "main.js": "/quraan-academy/static/js/main.37d9eb4c.chunk.js",
-    "main.js.map": "/quraan-academy/static/js/main.37d9eb4c.chunk.js.map",
+    "main.css": "/quraan-academy/static/css/main.52a73c15.chunk.css",
+    "main.js": "/quraan-academy/static/js/main.4fd34a12.chunk.js",
+    "main.js.map": "/quraan-academy/static/js/main.4fd34a12.chunk.js.map",
     "runtime-main.js": "/quraan-academy/static/js/runtime-main.5ab54ee4.js",
     "runtime-main.js.map": "/quraan-academy/static/js/runtime-main.5ab54ee4.js.map",
     "static/css/2.2a86faee.chunk.css": "/quraan-academy/static/css/2.2a86faee.chunk.css",
-    "static/js/2.fea8dd8c.chunk.js": "/quraan-academy/static/js/2.fea8dd8c.chunk.js",
-    "static/js/2.fea8dd8c.chunk.js.map": "/quraan-academy/static/js/2.fea8dd8c.chunk.js.map",
+    "static/js/2.0c4e78f2.chunk.js": "/quraan-academy/static/js/2.0c4e78f2.chunk.js",
+    "static/js/2.0c4e78f2.chunk.js.map": "/quraan-academy/static/js/2.0c4e78f2.chunk.js.map",
     "index.html": "/quraan-academy/index.html",
-    "precache-manifest.db35c91db9b11b6b1f46ca91ce2e8ffe.js": "/quraan-academy/precache-manifest.db35c91db9b11b6b1f46ca91ce2e8ffe.js",
+    "precache-manifest.4c8bb6f03c8b59b8a9d12f8f64c72a67.js": "/quraan-academy/precache-manifest.4c8bb6f03c8b59b8a9d12f8f64c72a67.js",
     "service-worker.js": "/quraan-academy/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/quraan-academy/static/css/2.2a86faee.chunk.css.map",
-    "static/css/main.79df3c52.chunk.css.map": "/quraan-academy/static/css/main.79df3c52.chunk.css.map",
-    "static/js/2.fea8dd8c.chunk.js.LICENSE.txt": "/quraan-academy/static/js/2.fea8dd8c.chunk.js.LICENSE.txt",
+    "static/css/main.52a73c15.chunk.css.map": "/quraan-academy/static/css/main.52a73c15.chunk.css.map",
+    "static/js/2.0c4e78f2.chunk.js.LICENSE.txt": "/quraan-academy/static/js/2.0c4e78f2.chunk.js.LICENSE.txt",
     "static/media/Icon awesome-facebook-f.svg": "/quraan-academy/static/media/Icon awesome-facebook-f.2fd580f5.svg",
     "static/media/Icon awesome-linkedin-in.svg": "/quraan-academy/static/media/Icon awesome-linkedin-in.7e0e9491.svg",
     "static/media/Icon awesome-twitter.svg": "/quraan-academy/static/media/Icon awesome-twitter.4be6c3e5.svg",
     "static/media/Icon ionic-ios-call.svg": "/quraan-academy/static/media/Icon ionic-ios-call.8a835abf.svg",
     "static/media/Icon material-location-on.svg": "/quraan-academy/static/media/Icon material-location-on.7092a7af.svg",
-    "static/media/OBJECTS.svg": "/quraan-academy/static/media/OBJECTS.3c8aa1b7.svg",
+    "static/media/OBJECTS.svg": "/quraan-academy/static/media/OBJECTS.d4dd338c.svg",
     "static/media/App.css": "/quraan-academy/static/media/bg.77d1abed.png",
     "static/media/confirm.svg": "/quraan-academy/static/media/confirm.f6935d2e.svg",
     "static/media/email.svg": "/quraan-academy/static/media/email.8289fbf4.svg",
@@ -37,8 +37,8 @@
   "entrypoints": [
     "static/js/runtime-main.5ab54ee4.js",
     "static/css/2.2a86faee.chunk.css",
-    "static/js/2.fea8dd8c.chunk.js",
-    "static/css/main.79df3c52.chunk.css",
-    "static/js/main.37d9eb4c.chunk.js"
+    "static/js/2.0c4e78f2.chunk.js",
+    "static/css/main.52a73c15.chunk.css",
+    "static/js/main.4fd34a12.chunk.js"
   ]
 }
