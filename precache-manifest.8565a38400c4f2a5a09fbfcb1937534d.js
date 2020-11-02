@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55bd5406e417d947eddb2415cb2a8197",
+    "revision": "d551d1a7c3ed546bd8c60f9bdcf2b84a",
     "url": "/quraan-academy/index.html"
   },
   {
-    "revision": "9e539dfb62faaba6462a",
+    "revision": "867a8784443405374fab",
     "url": "/quraan-academy/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "ebad2f21c42adb98eca9",
-    "url": "/quraan-academy/static/css/main.195918e2.chunk.css"
+    "revision": "0b8cc080147f1f96cdc9",
+    "url": "/quraan-academy/static/css/main.64ea3104.chunk.css"
   },
   {
-    "revision": "9e539dfb62faaba6462a",
-    "url": "/quraan-academy/static/js/2.21bea04c.chunk.js"
+    "revision": "867a8784443405374fab",
+    "url": "/quraan-academy/static/js/2.1243d018.chunk.js"
   },
   {
     "revision": "7303d4e29046e9de12b51b29bb7a6d54",
-    "url": "/quraan-academy/static/js/2.21bea04c.chunk.js.LICENSE.txt"
+    "url": "/quraan-academy/static/js/2.1243d018.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ebad2f21c42adb98eca9",
-    "url": "/quraan-academy/static/js/main.9d0605af.chunk.js"
+    "revision": "0b8cc080147f1f96cdc9",
+    "url": "/quraan-academy/static/js/main.c5ee7674.chunk.js"
   },
   {
     "revision": "49954c5a0664669d6c4b",
@@ -84,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quraan-academy/static/media/logo-1.d7ae7b00.svg"
   },
   {
+    "revision": "ae7abe106dca97c24b8cd37b7a9a8c89",
+    "url": "/quraan-academy/static/media/logo-f-sm.ae7abe10.svg"
+  },
+  {
     "revision": "516e21201c1f6aeb26fde8f781c0df8f",
     "url": "/quraan-academy/static/media/logo.516e2120.svg"
   },
@@ -106,5 +110,13 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f577d8611a78604dc6ad7dca10be8087",
     "url": "/quraan-academy/static/media/side.f577d861.png"
+  },
+  {
+    "revision": "2664b3f4332e0fbb0af4fdf8bc2365ed",
+    "url": "/quraan-academy/static/media/slide-1.2664b3f4.svg"
+  },
+  {
+    "revision": "d512b153f3c72af978c1d748a47372e5",
+    "url": "/quraan-academy/static/media/slide-2.d512b153.svg"
   }
 ]);
