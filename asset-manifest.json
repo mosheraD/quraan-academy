@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/quraan-academy/static/css/main.3c4efc86.chunk.css",
-    "main.js": "/quraan-academy/static/js/main.fda27fca.chunk.js",
-    "main.js.map": "/quraan-academy/static/js/main.fda27fca.chunk.js.map",
+    "main.js": "/quraan-academy/static/js/main.f7850e49.chunk.js",
+    "main.js.map": "/quraan-academy/static/js/main.f7850e49.chunk.js.map",
     "runtime-main.js": "/quraan-academy/static/js/runtime-main.5ab54ee4.js",
     "runtime-main.js.map": "/quraan-academy/static/js/runtime-main.5ab54ee4.js.map",
     "static/css/2.2a86faee.chunk.css": "/quraan-academy/static/css/2.2a86faee.chunk.css",
     "static/js/2.307f910d.chunk.js": "/quraan-academy/static/js/2.307f910d.chunk.js",
     "static/js/2.307f910d.chunk.js.map": "/quraan-academy/static/js/2.307f910d.chunk.js.map",
     "index.html": "/quraan-academy/index.html",
-    "precache-manifest.4f1759b7a9deab75dcaab408052ae9b9.js": "/quraan-academy/precache-manifest.4f1759b7a9deab75dcaab408052ae9b9.js",
+    "precache-manifest.a7d3475708bc956ccc20b8b59fbe4b18.js": "/quraan-academy/precache-manifest.a7d3475708bc956ccc20b8b59fbe4b18.js",
     "service-worker.js": "/quraan-academy/service-worker.js",
     "static/css/2.2a86faee.chunk.css.map": "/quraan-academy/static/css/2.2a86faee.chunk.css.map",
     "static/css/main.3c4efc86.chunk.css.map": "/quraan-academy/static/css/main.3c4efc86.chunk.css.map",
@@ -48,6 +48,6 @@
     "static/css/2.2a86faee.chunk.css",
     "static/js/2.307f910d.chunk.js",
     "static/css/main.3c4efc86.chunk.css",
-    "static/js/main.fda27fca.chunk.js"
+    "static/js/main.f7850e49.chunk.js"
   ]
 }
