@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1b4dd7b56589db6e0b7c7ce2a73a7c20",
+    "revision": "bc8f48b4f5128ef2183133c4256defe1",
     "url": "/quraan-academy/index.html"
   },
   {
-    "revision": "236cfdfcc04ee5fe5c90",
+    "revision": "9b8761583f5f282eda3a",
     "url": "/quraan-academy/static/css/2.2a86faee.chunk.css"
   },
   {
-    "revision": "ca7719071e67a0d1dbe8",
-    "url": "/quraan-academy/static/css/main.72ce57ea.chunk.css"
+    "revision": "f86c42f07187a3e6d928",
+    "url": "/quraan-academy/static/css/main.a832662e.chunk.css"
   },
   {
-    "revision": "236cfdfcc04ee5fe5c90",
-    "url": "/quraan-academy/static/js/2.9a236f44.chunk.js"
+    "revision": "9b8761583f5f282eda3a",
+    "url": "/quraan-academy/static/js/2.9c344c25.chunk.js"
   },
   {
     "revision": "0852170d645826dcb2e892c8c0dc1923",
-    "url": "/quraan-academy/static/js/2.9a236f44.chunk.js.LICENSE.txt"
+    "url": "/quraan-academy/static/js/2.9c344c25.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca7719071e67a0d1dbe8",
-    "url": "/quraan-academy/static/js/main.a74b1721.chunk.js"
+    "revision": "f86c42f07187a3e6d928",
+    "url": "/quraan-academy/static/js/main.4b83c43e.chunk.js"
   },
   {
     "revision": "49954c5a0664669d6c4b",
@@ -84,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quraan-academy/static/media/egypt.d355bd79.svg"
   },
   {
+    "revision": "68fafc13f343994dbe5c4ad122306780",
+    "url": "/quraan-academy/static/media/email.68fafc13.svg"
+  },
+  {
     "revision": "8289fbf4791035fdeddc2baf97244f2b",
     "url": "/quraan-academy/static/media/email.8289fbf4.svg"
   },
@@ -124,6 +128,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quraan-academy/static/media/map-placeholder.cbe54bd0.jpg"
   },
   {
+    "revision": "687a26dbcc41d2bde407f7e6507fe0fc",
+    "url": "/quraan-academy/static/media/mastercard.687a26db.svg"
+  },
+  {
     "revision": "3c886a4b575d3ddd3a9e1af2f1b29129",
     "url": "/quraan-academy/static/media/more.3c886a4b.svg"
   },
@@ -138,6 +146,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e62d7e6aaa547288c49e1932d172f4d1",
     "url": "/quraan-academy/static/media/path.e62d7e6a.svg"
+  },
+  {
+    "revision": "f713fea0a41015fcb36b6e9b387e1f58",
+    "url": "/quraan-academy/static/media/paypal.f713fea0.png"
   },
   {
     "revision": "eef02aa369cf3403ff55f05d3b185a29",
@@ -174,5 +186,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4571bd9393e9deab786146afcc2b86d0",
     "url": "/quraan-academy/static/media/vip.4571bd93.svg"
+  },
+  {
+    "revision": "fabf9d8a3a7dddec2c4c58990f7aaab8",
+    "url": "/quraan-academy/static/media/visa.fabf9d8a.svg"
   }
 ]);
