@@ -9,9 +9,10 @@ var firebaseConfig = {
 
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker
-    .register("firebase-messaging-sw.js")
+    .register("../firebase-messaging-sw.js")
     .then(function(registration) {
       console.log("Registration successful, scope is:", registration.scope);
+      firebase.messaging().useServiceWorker(registration);
       // initMessaging.getToken({serviceWorkerRegistration: swRegistration , vapidKey: 'BE3FEaCm43z9oqEWcRBPvCnu4xf8yEYeNayPY2n8LjrgY0xpbnKUnBS_zs2i3L0XRSxWzwmNl6lSXnwWKXnyRbg', serviceWorkerRegistration : registration })
         // .then((currentToken) => {
         //   if (currentToken) {
@@ -39,6 +40,8 @@ firebase.initializeApp(firebaseConfig);
 
 // Retrieve firebase messaging
 const initMessaging = firebase.messaging();
+
+
 
 
 
