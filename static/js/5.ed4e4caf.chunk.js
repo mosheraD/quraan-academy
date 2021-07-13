@@ -1,2 +1,0 @@
-(this["webpackJsonpquraan-academy"]=this["webpackJsonpquraan-academy"]||[]).push([[5],{469:function(a,e,s){"use strict";s.r(e),e.default=s.p+"static/media/incomingothermessage.71c0aae9.wav"}}]);
-//# sourceMappingURL=5.ed4e4caf.chunk.js.map
